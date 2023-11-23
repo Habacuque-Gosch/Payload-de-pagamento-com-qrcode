@@ -1,0 +1,1 @@
+# Payload-de-pagamento-com-qrcode
